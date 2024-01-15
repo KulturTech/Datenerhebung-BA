@@ -1,2 +1,3 @@
-# VADER_Analysis_Politics
-I created this repository to create a platform for the VADER analysis of latest political comments in the US and India for practice to create a uniform dataset that I can later create a machine learning model from. I'm still a beginner. So, I'm still getting a hang of it.
+# Datenerhebung BA
+Das ist mein Portfolio mit der Datenanalyse für die Bachelorarbeit in der Religionswissenschaft.
+Die Forschungsfrage meiner Arbeit ist: Welche Strategien entfalten Hindu-Nationalisten im Netz, um die Machtdynamiken im Manipur-Konflikt zu beeinflussen?

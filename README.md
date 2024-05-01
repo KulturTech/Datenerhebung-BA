@@ -1,4 +1,4 @@
-# Datenerhebung BA
+# VADER Sentiment Analysis der Pressemitteilungen und Tweets der Hindu-nationalistischen Akteure zum Konflikt zwischen Meiteis und Kukis
 Das ist mein Portfolio mit der Datenanalyse für die Bachelorarbeit in der Religionswissenschaft.
 Die Forschungsfrage meiner Arbeit ist: Welche Argumentationsmuster benutzen Hindu-Nationalisten im Netz, um die Machtdynamiken im ethnischen Konflikt zwischen den Meiteis und Kukis in Manipur zu beeinflussen?
 
